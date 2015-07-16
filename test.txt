@@ -1,1 +1,2 @@
 create a new brance feature1
+fixed a bug
